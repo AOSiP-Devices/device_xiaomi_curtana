@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_miatoll.mk
+    $(LOCAL_DIR)/aosip_curtana.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_miatoll-user \
-    aosip_miatoll-userdebug \
-    aosip_miatoll-eng
+    aosip_curtana-user \
+    aosip_curtana-userdebug \
+    aosip_curtana-eng
